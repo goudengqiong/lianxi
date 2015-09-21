@@ -1,4 +1,4 @@
-一、撤销一个公共修改 Undo a "public" change
+1、撤销一个公共修改 Undo a "public" change
 
 场景：你刚刚用git push将本地修改推送到了GitHub，这时你意识到在提交中有一个错误。你想撤销这次提交。
 
